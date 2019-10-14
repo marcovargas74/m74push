@@ -24,7 +24,7 @@ go get -u github.com/sideshow/apns2
 go get -u github.com/marcovargas74/m74push
 ```
 
-##Example
+## Example
 
 ```
 import (
