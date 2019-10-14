@@ -1,5 +1,0 @@
-README.md
-how to send A simple push notification to IOS app, using the Apple Push Notifications Server (APNs)
-In folder "howToUse" have a example how to send a push notification. 
-But the token and certification, is necessary to get from apple developer account.
-   
