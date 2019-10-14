@@ -26,7 +26,7 @@ go get -u github.com/marcovargas74/m74push
 
 ## Example
 
-```
+```go 
 import (
 	"fmt"
 
